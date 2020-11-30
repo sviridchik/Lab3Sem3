@@ -1,0 +1,23 @@
+{
+  "AllData": {
+    "ArchiveAndDearchieveConfiguration": {
+      "Archieve": true,
+      "DeArchieve": true
+    },
+    "FinderInfo": {
+      "Coding": "utf8",
+      "SourceDirectory": "\\Users\\User\\Desktop\\source",
+      "TargetDirectory": "\\Users\\User\\Desktop\\target",
+      "LogPath": "\\Users\\User\\Desktop\\ExeDir\\log.txt",
+      "NeedToLog": true
+    },
+    "CompressingOptions": {
+      "Compressing": false
+    },
+    "EncryptingAndDecriptingOptions": {
+      "RandomKey": true,
+      "Encrypt": false,
+      "DEncrypt": false
+    }
+  }
+}
