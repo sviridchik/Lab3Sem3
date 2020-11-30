@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AllData>
+    <ArchiveAndDearchieveConfiguration>
+        <Archieve>true</Archieve>
+        <DeArchieve>false</DeArchieve>
+        <NeedToLog>true</NeedToLog>
+    </ArchiveAndDearchieveConfiguration>
+    <CompressingOptions>
+        <Compressing>true</Compressing>
+        <Level>optimal</Level>
+    </CompressingOptions>
+    <EncryptingAndDecriptingOptions>
+        <DEncrypt>false</DEncrypt>
+        <Encrypt>false</Encrypt>
+        <RandomKey>true</RandomKey>
+    </EncryptingAndDecriptingOptions>
+    <FinderInfo>
+        <Coding>utf8</Coding>
+        <NeedToLog>true</NeedToLog>
+        <SourceDirectory>/Users/victoriasviridchik/Desktop/lab2/SourceDir/2020/11/29/1.txt</SourceDirectory>
+        <TargetDirectory>/Users/victoriasviridchik/Desktop/lab2/TargetDir</TargetDirectory>
+        <LogPath>/Users/victoriasviridchik/Desktop/lab2/TargetDir</LogPath>
+    </FinderInfo>
+</AllData>
