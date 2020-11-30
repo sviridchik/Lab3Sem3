@@ -1,0 +1,4 @@
+D:\Ucheba\Lab3Sem3\ClassLibraryLab3\bin\Debug\ClassLibraryLab3.dll
+D:\Ucheba\Lab3Sem3\ClassLibraryLab3\bin\Debug\ClassLibraryLab3.pdb
+D:\Ucheba\Lab3Sem3\ClassLibraryLab3\obj\Debug\ClassLibraryLab3.dll
+D:\Ucheba\Lab3Sem3\ClassLibraryLab3\obj\Debug\ClassLibraryLab3.pdb
